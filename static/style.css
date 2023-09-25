@@ -1,0 +1,19 @@
+/* внешние границы таблицы  толщиной 1px */
+table {
+    border: 2px solid rgb(8, 213, 227);
+    margin-left: auto;
+    margin-right: auto;
+}
+/* границы ячеек первого ряда таблицы */
+th {
+    border: 2px solid rgb(255, 0, 251);
+    font-size: 250%;
+}
+/* границы ячеек тела таблицы */
+td {
+    border: 2px solid grey;
+    font-size: 250%;
+}
+h1 {
+    text-align: center;	
+}
